@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  font-size: 62.5%;
+  font-family: 'Roboto Slab', serif;
+}
+
+body{
+  background: #a6a6a6;
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  /* background-image: url('../assets/hamburger.png');
+  background-repeat: no-repeat;
+  background-position: (100%, 0); */
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
